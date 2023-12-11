@@ -1,0 +1,229 @@
+#,ticker_1,ticker_root,ric_root,mic_exch,ccy,contract_size,tick_size,spread_tick_size,tick_value,r2b_mul,ex_root,bb_exch,tr_exch,type,sub_type,country,cdr_exch,underlying,region,liquid_contracts,roll_conversion,roll_rules,risk_class,is_trade,gen,cftc,cc_mic,session,sub_type_2,sub_type_1,sub_type_0,is_trade_prod,is_qc,start_date,end_date,dynamic_roll
+1,XP1 Index,XP,YAP,XSFE,AUD,25,1,1,25,1,AP,SFE,SFE,Index,Physical index future.,AU,SF,.AXJO,asia,HMUZ,-1,2;0;0,,1,3,,XSFE,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-05-02,,0
+2,IFB1 Index,IFB,CIF,CCFX,CNY,300,0.2,,60,1,IF,CFF,CFX,Index,Financial index future.,CN,CH,.CSI300,asia,FGHJKMNQUVXZ,1,1;0;0,,0,3,,CCFX,"",Equity Index,Equity Index,Equity Index,0,0,2010-04-16,,0
+3,HI1 Index,HI,HSI,XHKF,HKD,50,1,1,50,1,HSI,HKG,HFE,Index,Physical index future.,HK,HO,.HSI,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XHKF,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+4,HU1 Index,HU,HMH,XHKF,HKD,10,1,1,10,1,MHI,HKG,HFE,Index,Physical index future.,HK,HO,.HSI,asia,FGHJKMNQUVXZ,1,1;0;0,,0,3,,XHKF,PIT,Equity Index,Equity Index,Equity Index,0,0,2000-10-09,,0
+5,HC1 Index,HC,HCEI,XHKF,HKD,50,1,1,50,1,HHI,HKG,HFE,Index,Physical index future.,HK,HO,.HSCE,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XHKF,PIT,Equity Index,Equity Index,Equity Index,1,1,2003-12-08,,0
+6,NZ1 Index,NZ,NIF,XNSE,INR,50,0.05,0.05,2.5,1,NIFTY,NSE,NSI,Index,Physical index future.,IN,II,.NSEI,asia,FGHJKMNQUVXZ,1,2;0;0,,1,3,,XNSE,"",Equity Index,Equity Index,Equity Index,0,1,2000-06-12,,0
+7,NK1 Index,NK,JNI,XOSE,JPY,1000,10,1,10000,1,NK225,OSE,OSA,Index,Physical index future.,JP,OK,.N225,asia,HMUZ,1,2;0;0,,1,3,,XOSE,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-01-04,,0
+8,TP1 Index,TP,JTI,XOSE,JPY,10000,0.5,0.1,5000,1,TOPIX,OSE,OSA,Index,Physical index future.,JP,OK,.TOPX,asia,HMUZ,1,2;0;0,,1,3,,XOSE,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-01-04,,0
+9,KM1 Index,KM,KS,XKFE,KRW,250000,0.05,0.05,12500,1,01,KFE,KSC,Index,Physical index future.,KR,SE,.KS200,asia,HMUZ,1,1;0;0,,1,3,,XKFE,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-01-04,,0
+10,KST1 Index,KST,KQ150,XKFE,KRW,10000,0.1,0.1,1000,1,06,KFE,KFE,Index,Physical index future.,KR,SE,.KQ150,asia,HMUZ,1,2;0;0,,1,3,,XKFE,"",Equity Index,Equity Index,Equity Index,0,1,2015-11-23,,0
+11,IK1 Index,IK,FKLI,XBMD,MYR,50,0.5,0.5,25,1,FKLI,MDE,MDX,Index,Physical index future.,MY,KO,.KLSE,asia,FGHJKMNQUVXZ,-1,1;0;0,,1,3,,XKLS,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+12,NI1 Index,NI,SSI,XSIM,JPY,500,5,1,2500,1,NK,SGX,SIM,Index,Physical index future.,SG,SG,.N225,asia,HMUZ,1,2;0;0,,1,3,,XOSE,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-01-04,,0
+13,TW1 Index,TW,STW,XSIM,USD,100,0.1,0.1,10,1,TW,SGX,SIM,Index,Physical index future.,SG,SG,.TAMSCI,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XTAF,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-01-04,2020-12-11,0
+14,XU1 Index,XU,SFC,XSIM,USD,1,1,1,1,1,CN,SGX,SIM,Index,Physical index future.,CN,SG,.FTXIN9,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,CCFX,PIT,Equity Index,Equity Index,Equity Index,1,1,2006-09-05,,0
+15,IH1 Index,IH,SIN,XSIM,USD,2,0.5,0.5,1,1,IN,SGX,SIM,Index,Physical index future.,SG,SG,.NSEI,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XNSE,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-09-25,,0
+16,QZ1 Index,QZ,SSG,XSIM,SGD,100,0.05,0.05,5,1,SGP,SGX,SIM,Index,Physical index future.,SG,SG,.SIMSCI,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XSES-SGF,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+17,BC1 Index,BC,S50,TFEX,THB,200,0.1,0.1,20,1,SET50,TEF,TFX,Index,Physical index future.,TH,TS,.SET50,asia,HMUZ,1,2;0;0,,1,3,,TFEX,"",Equity Index,Equity Index,Equity Index,1,1,2006-04-28,,0
+18,FT1 Index,FT,TX,XTAF,TWD,200,1,1,200,1,TXF,FTX,TIM,Index,Physical index future.,TW,TW,.TWII,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XTAF,PIT,Equity Index,Equity Index,Equity Index,1,1,2000-01-04,,0
+19,SM1 Index,SM,FSMI,XEUR,CHF,10,1,1,10,1,FSMI,EUX,EUX,Index,Physical index future.,CH,E3,.SSMI,euro,HMUZ,-1,2;0;0,,1,3,,XEUR-EUZ,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+20,VG1 Index,VG,STXE,XEUR,EUR,10,1,1,10,1,FESX,EUX,EUX,Index,Physical index future.,DE,DT,.STOXX50E,euro,HMUZ,-1,2;0;0,,1,3,,XEUR,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+21,GX1 Index,GX,FDX,XEUR,EUR,25,0.5,0.5,12.5,1,FDAX,EUX,EUX,Index,Physical index future.,DE,DT,.GDAXI,euro,HMUZ,-1,2;0;0,,1,3,,XEUR,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+22,IB1 Index,IB,MFXI,XMEF,EUR,10,1,0.5,10,1,FIE,MFM,MRV,Index,Physical index future.,ES,MS,.IBEX,euro,FGHJKMNQUVXZ,-1,1;0;0,,1,3,,XMRV,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+23,CF1 Index,CF,FCE,XMON,EUR,10,0.5,0.5,5,1,FCE,EOP,MNP,Index,Physical index future.,FR,PA,.FCHI,euro,FGHJKMNQUVXZ,-1,1;0;0,,1,3,,XMON,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+24,Z 1 Index,Z ,FFI,IFLL,GBP,10,0.5,0.5,500,1,Z,ICF,IEU,Index,Physical index future.,GB,LI,.FTSE,euro,HMUZ,-1,2;0;0,,1,3,,IFLL,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-04,,0
+25,ST1 Index,ST,IFS,XDMI,EUR,5,5,5,25,1,FTMIB,MIL,MIL,Index,Physical index future.,IT,MI,.FTMIB,euro,HMUZ,1,2;0;0,,1,3,,XDMI,"",Equity Index,Equity Index,Equity Index,1,1,2004-03-22,,0
+26,EO1 Index,EO,AEX,XEUE,EUR,200,0.05,0.05,10,1,FTI,EOE,AEX,Index,Physical index future.,NL,AM,.AEX,euro,FGHJKMNQUVXZ,-1,1;0;0,,1,3,,XEUE-AMS,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+27,VE1 Index,VE,RIRTS,RTSX,USD,2,10,10,0.2,1,RI,RTS,RTF,Index,Physical index future.,RU,R1,.IRTS,euro,HMUZ,1,2;0;0,,0,3,,RTSX,"",Equity Index,Equity Index,Equity Index,0,0,2005-08-03,,0
+28,QC1 Index,QC,OMXS30,XNDX,SEK,100,0.25,0.05,25,1,OMXS30,SSE,STO,Index,Physical index future.,SE,ST,.OMXS30,euro,FGHJKMNQUVXZ,1,2;0;0,,1,3,,XSTO,"",Equity Index,Equity Index,Equity Index,1,1,2005-02-14,,0
+29,A51 Index,A5,XU030,XIST,TRY,100,0.025,0.01,2.5,1,D_XU030D,IST,IST,Index,Physical index future.,TR,I1,.XU030,euro,GJMQVZ,1,2;0;0,,0,3,,XIST,"",Equity Index,Equity Index,Equity Index,0,0,2005-05-03,,0
+30,AI1 Index,AI,ALSI,XSAF,ZAR,10,1,1,10,1,ALSI,SAF,JNB,Index,Physical index future.,ZA,JH,.JTOPI,euro,HMUZ,1,2;0;0,,1,3,,XSAF,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-04,,0
+31,IKA Comdty,IK,FBTP,XEUR,EUR,100000,0.01,,10,1,FBTP,EUX,EUX,Comdty,yint bond future.,DE,DT,,euro,HMUZ,-1,2;2;0,,1,3,,XEUR,"",Bond,Bond,Bond,1,1,2009-09-14,,0
+32,SMA Comdty,SM,SM,XCBT,USD,100,0.1,0.1,10,1,ZM,CBT,,Comdty,Physical commodity future.,US,CB,,namr,FHKNZ,-1,10;10;0,,1,7,CBT3S,XCBT-CBA,COMB,Soy,Agriculture,Commodity,1,1,2000-01-03,,0
+33,QCA Comdty,QC,LCC,IFLX,GBP,10,1,1,1000,1,C,ICE,,Comdty,Physical commodity future.,US,CG,,euro,HKNUZ,-1,30;30;0,,1,7,DLIFA,IFLX,"",Foodstuff,Agriculture,Commodity,1,1,2000-01-04,,0
+34,IBA Comdty,IB,2YIB,XSFE,AUD,3000000,0.005,,12.33,1,IB,SFE,,Comdty,Financial commodity future.,AU,SF,,asia,FGHJKMNQUVXZ,1,2;2;0,,0,6,,XSFE,PIT,Interest Rate,Interest Rate,Interest Rate,0,0,2003-08-12,,0
+35,XB1 Index,XB,WIN,BVMF,BRL,0.2,5,1,1,1,WIN,BMF,BMF,Index,Physical index future.,BR,B3,.BVSP,lamr,GJMQVZ,1,2;0;0,,1,3,,BVMF,"",Equity Index,Equity Index,Equity Index,0,1,2001-09-18,,0
+36,PT1 Index,PT,SXF,XMOD,CAD,200,0.1,0.01,20,1,SXF,MSE,MON,Index,Physical index future.,CA,ML,.SPTSE,namr,HMUZ,1,2;0;0,,1,3,,XMOD,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-04,,0
+37,ES1 Index,ES,ES,XCME,USD,50,0.25,0.05,12.5,1,ES,CME,IOM,Index,Physical index future.,US,CE,.SPX,namr,HMUZ,1,5;0;0,,1,3,IMM0E,XCME-CME,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+38,NQ1 Index,NQ,NQ,XCME,USD,20,0.25,0.05,5,1,NQ,CME,IOM,Index,Physical index future.,US,CE,.NDX,namr,HMUZ,1,3;0;0,,1,3,IMM3N,XCME-CME,"",Equity Index,Equity Index,Equity Index,1,1,2000-01-03,,0
+39,DM1 Index,DM,YM,XCBT,USD,5,1,1,5,1,YM,CBT,CBT,Index,Physical index future.,US,CB,.DJI,namr,HMUZ,1,3;0;0,,0,3,,XCBT-CBA,"",Equity Index,Equity Index,Equity Index,0,0,2002-04-05,,0
+40,RTY1 Index,RTY,RTY,XCME,USD,50,0.1,0.05,5,1,RTY,CME,IOM,Index,Physical index future.,US,CE,.RUT,namr,HMUZ,1,3;0;0,,0,3,,XCME-CME,"",Equity Index,Equity Index,Equity Index,1,1,2017-07-10,,0
+41,FA1 Index,FA,DM,XCME,USD,100,0.1,0.05,10,1,EMD,CME,IOM,Index,Physical index future.,US,CE,.IDX,namr,HMUZ,1,3;0;0,,0,3,,XCME-CME,"",Equity Index,Equity Index,Equity Index,0,0,2002-01-28,,0
+42,EC1 Curncy,EC,URO,XCME,USD,125000,0.00005,0.00005,6.25,1,6E,CME,IMM,Curncy,Currency future.,US,CE,EURUSD=,namr,HMUZ,1,3;0;0,,1,3,IMMBE,XCME-CME,COMB,Currency,Currency,Currency,1,1,2000-01-03,,0
+43,JY1 Curncy,JY,JY,XCME,USD,12500000,0.0000005,0.0000005,6.25,10000,6J,CME,IMM,Curncy,Currency future.,US,CE,JPYUSD=,namr,HMUZ,1,3;0;0,,1,3,IMM5J,XCME-CME,COMB,Currency,Currency,Currency,1,1,2000-01-03,,0
+44,BP1 Curncy,BP,BP,XCME,USD,62500,0.0001,0.0001,6.25,100,6B,CME,IMM,Curncy,Currency future.,US,CE,GBPUSD=,namr,HMUZ,1,3;0;0,,1,3,IMM5P,XCME-CME,COMB,Currency,Currency,Currency,1,1,2000-01-03,,0
+45,AD1 Curncy,AD,AD,XCME,USD,100000,0.0001,0.0001,10,100,6A,CME,IMM,Curncy,Currency future.,US,CE,AUDUSD=,namr,HMUZ,1,3;0;0,,1,3,IMM6A,XCME-CME,COMB,Currency,Currency,Currency,1,1,2000-01-03,,0
+46,CD1 Curncy,CD,CD,XCME,USD,100000,0.00005,0.00005,5,100,6C,CME,IMM,Curncy,Currency future.,US,CE,CADUSD=,namr,HMUZ,1,2;0;0,,1,3,IMM3C,XCME-CME,COMB,Currency,Currency,Currency,1,1,2000-01-03,,0
+47,SF1 Curncy,SF,SF,XCME,USD,125000,0.0001,0.0001,12.5,100,6S,CME,IMM,Curncy,Currency future.,US,CE,CHFUSD=,namr,HMUZ,1,3;0;0,,1,3,IMM4S,XCME-CME,COMB,Currency,Currency,Currency,1,1,2000-01-03,,0
+48,NV1 Curncy,NV,NE,XCME,USD,100000,0.0001,0.0001,10,100,6N,CME,IMM,Curncy,Currency future.,US,CE,NZDUSD=,namr,HMUZ,1,2;0;0,,1,3,IMM6Z,XCME-CME,COMB,Currency,Currency,Currency,1,1,2000-01-03,,0
+49,PE1 Curncy,PE,MP,XCME,USD,500000,0.00001,0.00001,5,100,6M,CME,GEM,Curncy,Currency future.,US,CE,MXNUSD=,namr,HMUZ,1,2;0;0,,1,3,IMM6M,XCME-CME,COMB,Currency,Currency,Currency,1,1,2000-01-03,,0
+50,INT1 Curncy,INT,NIR,XNSE,INR,1000,0.0025,0.0025,2.5,1,USDINR,NSE,NSI,Curncy,Currency future.,IN,II,INRUSD=,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XNSE,"",Currency,Currency,Currency,0,1,2008-08-29,,0
+51,XUC1 Curncy,XUC,SUC,XSIM,CNH,100000,0.0001,0.0001,10,1,UC,SGX,SIM,Curncy,Currency future.,SG,SG,CNHUSD=,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XSES,PIT,Currency,Currency,Currency,0,1,2014-10-20,,0
+52,XID1 Curncy,XID,SDIU,XSIM,USc,2000000,0.01,0.01,200,1,IU,SGX,SIM,Curncy,Currency future.,SG,SG,INRUSD=,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XSES,PIT,Currency,Currency,Currency,0,1,2013-11-11,,0
+53,UR1 Curncy,UR,SIRTS,RTSX,RUB,1000,1,1,1,1,Si,RTS,RTF,Curncy,Currency future.,RU,R1,RUBUSD=,euro,HMUZ,1,1;0;0,,1,3,,RTSX,"",Currency,Currency,Currency,0,1,2002-12-02,,0
+54,KU1 Curncy,KU,KRW,XKFE,KRW,10000,0.1,0.1,1000,1,75,KFE,KFE,Curncy,Currency future.,KR,SK,KRWUSD=,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XKFE,PIT,Currency,Currency,Currency,0,1,2000-01-04,,0
+55,UCA Curncy,UC,DOL,BVMF,BRL,50000,0.5,0.01,25,1,DOL,BMF,,Curncy,Currency future.,BR,B3,.DXY,lamr,FGHJKMNQUVXZ,1,1;0;0,,1,3,,BVMF,"",Currency,Currency,Currency,0,1,2000-01-03,,0
+56,PTA Comdty,PT,CTA,XZCE,CNY,5,2,,10,1,TA,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FKU,1,28;28;0,,1,7,,XZCE,PIT,Industrial Material,Industrial Material,Commodity,0,1,2006-12-18,,1
+57,ECA Comdty,EC,QM,XNYM,USD,500,0.025,0.025,12.5,1,QM,NYM,,Comdty,Physical commodity future.,US,NM,,namr,FGHJKMNQUVXZ,-1,1;2;0,,1,7,NEMFT,XNYM-GBX,COMB,Crude Oil,Energy,Commodity,1,1,2002-06-21,,0
+58,XBA Comdty,XB,RB,XNYM,USD,42000,0.0001,0.0001,4.2,100,RB,NYM,,Comdty,Physical commodity future.,US,NM,,namr,FGHJKMNQUVXZ,-1,10;10;0,,1,7,NYM2X,XNYM-GBX,COMB,Refined Products,Energy,Commodity,1,1,2005-10-03,,0
+59,NVA Comdty,NV,LHO,IFEU,USD,42000,0.01,,4.2,100,UHO,ICE,,Comdty,Physical commodity future.,GB,IP,,euro,FGHJKMNQUVXZ,-1,20;20;0,,1,7,,IFEU-IPE,"",Refined Products,Energy,Commodity,0,0,2006-04-21,,0
+60,ESA Comdty,ES,FES,IFLL,CHF,1000000,0.01,,25,1,S,ICF,,Comdty,Financial commodity future.,GB,L9,,euro,HMUZ,1,2;2;0,,0,6,,IFLL-USI,"",Interest Rate,Interest Rate,Interest Rate,0,0,2000-01-04,2021-12-17,0
+61,WDOA Curncy,WDO,WDO,BVMF,BRL,10000,0.5,0.01,5,1,WDO,BMF,,Curncy,Currency future.,BR,B3,.DXY,lamr,FGHJKMNQUVXZ,1,1;0;0,,1,3,,BVMF,"",Currency,Currency,Currency,0,1,2011-09-23,,0
+62,LUSA Curncy,LUS,BIR,XBOM,INR,1000,0.0025,0.0025,2.5,1,USDINR,BBX,BSE,Curncy,Currency future.,IN,IN,INRUSD=,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XBOM,"",Currency,Currency,Currency,0,1,2013-11-29,,0
+63,TYA Comdty,TY,TY,XCBT,USD,100000,0.015625,0.015625,15.625,1,ZN,CBT,,Comdty,yint bond future.,US,CB,,namr,HMUZ,-1,2;2;0,,1,3,CBT4T,XCBT-CME,COMB,Bond,Bond,Bond,1,1,2000-01-03,,0
+64,RXA Comdty,RX,FGBL,XEUR,EUR,100000,0.01,,10,1,FGBL,EUX,EUX,Comdty,yint bond future.,DE,DT,,euro,HMUZ,-1,2;2;0,,1,3,,XEUR,"",Bond,Bond,Bond,1,1,2000-01-03,,0
+65,FVA Comdty,FV,FV,XCBT,USD,100000,0.0078125,,7.8125,1,ZF,CBT,,Comdty,yint bond future.,US,CB,,namr,HMUZ,-1,2;2;0,,1,3,CBT55,XCBT-CME,COMB,Bond,Bond,Bond,1,1,2000-01-03,,0
+66,TUA Comdty,TU,TU,XCBT,USD,200000,0.00390625,,7.8125,1,ZT,CBT,,Comdty,yint bond future.,US,CB,,namr,HMUZ,-1,2;2;0,,1,3,CBT42,XCBT-CME,COMB,Bond,Bond,Bond,1,1,2000-01-03,,0
+67,OEA Comdty,OE,FGBM,XEUR,EUR,100000,0.01,,10,1,FGBM,EUX,EUX,Comdty,yint bond future.,DE,DT,,euro,HMUZ,-1,2;2;0,,1,3,,XEUR,"",Bond,Bond,Bond,1,1,2000-01-03,,0
+68,DUA Comdty,DU,FGBS,XEUR,EUR,100000,0.005,,5,1,FGBS,EUX,EUX,Comdty,yint bond future.,DE,DT,,euro,HMUZ,-1,2;2;0,,1,3,,XEUR,"",Bond,Bond,Bond,1,1,2000-01-03,,0
+69,USA Comdty,US,US,XCBT,USD,100000,0.03125,,31.25,1,ZB,CBT,,Comdty,yint bond future.,US,CB,,namr,HMUZ,-1,2;2;0,,1,3,CBT3T,XCBT-CME,COMB,Bond,Bond,Bond,1,1,2000-01-03,,0
+70,XMA Comdty,XM,YTC,XSFE,AUD,100000,0.005,0.005,60.64,1,XT,SFE,,Comdty,yint bond future.,AU,SF,,asia,HMUZ,-1,2;2;0,,1,3,,XSFE,PIT,Bond,Bond,Bond,1,1,2000-01-04,,0
+71,JBA Comdty,JB,JGB,XOSE,JPY,100000000,0.01,,10000,1,JGBL,OSE,,Comdty,yint bond future.,JP,OK,,asia,HMUZ,-1,2;2;0,,1,3,,XOSE,PIT,Bond,Bond,Bond,1,1,2000-01-04,,0
+72,YMA Comdty,YM,YTT,XSFE,AUD,100000,0.005,0.005,16.05,1,YT,SFE,,Comdty,yint bond future.,AU,SF,,asia,HMUZ,-1,2;2;0,,1,3,,XSFE,PIT,Bond,Bond,Bond,1,1,2000-01-04,,0
+73,UXYA Comdty,UXY,TN,XCBT,USD,100000,0.015625,,15.625,1,TN,CBT,,Comdty,yint bond future.,US,CB,,namr,HMUZ,-1,2;2;0,,1,3,CFF4Z,XCBT-CME,COMB,Bond,Bond,Bond,1,1,2016-01-11,,0
+74,WNA Comdty,WN,AUL,XCBT,USD,100000,0.03125,,31.25,1,UB,CBT,,Comdty,yint bond future.,US,CB,,namr,HMUZ,-1,2;2;0,,1,3,CBT3B,XCBT-CME,COMB,Bond,Bond,Bond,1,1,2010-01-11,,0
+75,G A Comdty,G ,FLG,IFLL,GBP,100000,0.01,,1000,1,R,ICF,,Comdty,yint bond future.,GB,LI,,euro,HMUZ,-1,2;2;0,,1,3,,IFLL,"",Bond,Bond,Bond,1,1,2000-01-04,,0
+76,OATA Comdty,OAT,FOAT,XEUR,EUR,100000,0.01,,10,1,FOAT,EUX,EUX,Comdty,yint bond future.,DE,DT,,euro,HMUZ,-1,2;2;0,,1,3,,XEUR,"",Bond,Bond,Bond,1,1,2012-04-16,,0
+77,UBA Comdty,UB,FGBX,XEUR,EUR,100000,0.02,,20,1,FGBX,EUX,EUX,Comdty,yint bond future.,DE,DT,,euro,HMUZ,-1,2;2;0,,1,3,,XEUR,"",Bond,Bond,Bond,1,1,2000-01-03,,0
+78,CNA Comdty,CN,CGB,XMOD,CAD,100000,0.01,,10,1,CGB,MSE,,Comdty,yint bond future.,CA,ML,,namr,HMUZ,-1,2;2;0,,1,3,,XMOD,"",Bond,Bond,Bond,1,1,2000-01-04,,0
+79,BTSA Comdty,BTS,FBTS,XEUR,EUR,100000,0.01,,10,1,FBTS,EUX,EUX,Comdty,yint bond future.,DE,DT,,euro,HMUZ,-1,2;2;0,,1,3,,XEUR,"",Bond,Bond,Bond,1,1,2010-10-18,,0
+80,KEA Comdty,KE,KTB,XKFE,KRW,100000000,0.01,0.01,10000,1,65,KFE,,Comdty,yint bond future.,KR,SE,,asia,HMUZ,-1,2;2;0,,1,3,,XKFE,"",Bond,Bond,Bond,1,1,2000-01-04,,0
+81,KAAA Comdty,KAA,10TB,XKFE,KRW,100000000,0.01,0.01,10000,1,67,KFE,,Comdty,yint bond future.,KR,SE,,asia,HMUZ,-1,2;2;0,,1,3,,XKFE,"",Bond,Bond,Bond,1,1,2008-02-25,,0
+82,TFTA Comdty,TFT,CFT,CCFX,CNY,1000000,0.005,,50,1,T,CFF,,Comdty,Financial commodity future.,CN,CH,,asia,HMUZ,1,2;2;0,,0,7,,CCFX,"",Bond,Bond,Bond,0,0,2015-03-20,,0
+83,TFSA Comdty,TFS,CTS,CCFX,CNY,2000000,0.005,,100,1,TS,CFF,,Comdty,Financial commodity future.,CN,CH,,asia,HMUZ,1,2;2;0,,0,7,,CCFX,"",Bond,Bond,Bond,0,0,2018-08-17,,0
+84,XQA Comdty,XQ,CGF,XMOD,CAD,100000,0.01,,10,1,CGF,MSE,,Comdty,yint bond future.,CA,ML,,namr,HMUZ,-1,2;2;0,,1,3,,XMOD,"",Bond,Bond,Bond,0,1,2000-01-04,,0
+85,TFCA Comdty,TFC,CTF,CCFX,CNY,1000000,0.005,,50,1,TF,CFF,,Comdty,Financial commodity future.,CN,CH,,asia,HMUZ,1,2;2;0,,0,7,,CCFX,"",Bond,Bond,Bond,0,0,2013-09-06,,0
+86,HGA Comdty,HG,HG,XCEC,USD,25000,0.0005,0.0005,12.5,100,HG,CMX,,Comdty,Physical commodity future.,US,NM,,namr,HKNUZ,-1,3;3;0,,1,7,CEI1C,XCEC-GBX,COMB,Base Metal,Metal,Commodity,1,1,2000-01-04,,0
+87,LPA Comdty,LP,,XLME,USD,25,0.01,,0.25,,CA,LME,,Comdty,Physical commodity future.,GB,LM,,euro,FGHJKMNQUVXZ,1,1;2;0,,0,6,,XLME-RNG,"",Base Metal,Metal,Commodity,0,0,,,0
+88,LNA Comdty,LN,,XLME,USD,6,0.01,,0.06,,NI,LME,,Comdty,Physical commodity future.,GB,LM,,euro,FGHJKMNQUVXZ,1,1;2;0,,0,6,,XLME-RNG,"",Base Metal,Metal,Commodity,0,0,,,0
+89,Y0A Comdty,Y0,MCC,XIMC,INR,1,0.05,,125,1,COPPER,MCI,,Comdty,Physical commodity future.,IN,I9,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XIMC,"",Base Metal,Metal,Commodity,0,0,2004-05-27,,0
+90,LAA Comdty,LA,,XLME,USD,25,0.01,,0.25,,AH,LME,,Comdty,Physical commodity future.,GB,LM,,euro,FGHJKMNQUVXZ,1,1;2;0,,0,6,,XLME-RNG,"",Base Metal,Metal,Commodity,0,0,,,0
+91,XIIA Comdty,XII,SNI,XSGE,CNY,1,10,,10,1,ni,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2015-03-27,,0
+92,IOEA Comdty,IOE,DCIO,XDCE,CNY,100,0.5,,50,1,i,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FKU,1,34;34;0,,1,7,,XDCE,PIT,Base Metal,Metal,Commodity,0,1,2013-10-18,,1
+93,RBTA Comdty,RBT,SRB,XSGE,CNY,10,1,,10,1,rb,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2009-03-27,,0
+94,CUA Comdty,CU,SCF,XSGE,CNY,5,10,,50,1,cu,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2000-01-04,,0
+95,ZNAA Comdty,ZNA,SZN,XSGE,CNY,5,5,,25,1,zn,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2007-07-17,,0
+96,ROCA Comdty,ROC,SHHC,XSGE,CNY,10,1,,10,1,hc,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2014-03-21,,0
+97,AAA Comdty,AA,SAF,XSGE,CNY,5,5,,25,1,al,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2001-05-17,,0
+98,XOOA Comdty,XOO,SSN,XSGE,CNY,1,10,,10,1,sn,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2015-03-27,,0
+99,PBLA Comdty,PBL,SPB,XSGE,CNY,5,5,,25,1,pb,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2011-03-24,,0
+100,GCA Comdty,GC,GC,XCEC,USD,100,0.1,0.1,10,1,GC,CMX,,Comdty,Physical commodity future.,US,NM,,namr,GJMQZ,-1,2;2;0,,1,7,CEI1G,XCEC-GBX,COMB,Precious Metal,Metal,Commodity,1,1,2000-01-04,,0
+101,SIA Comdty,SI,SI,XCEC,USD,5000,0.005,0.005,25,1,SI,CMX,,Comdty,Physical commodity future.,US,NM,,namr,HKNUZ,-1,2;2;0,,1,7,CEI1S,XCEC-GBX,COMB,Precious Metal,Metal,Commodity,1,1,2000-01-04,,0
+102,JGA Comdty,JG,JAU,XTKT,JPY,1000,1,,1000,1,GOLD,TCM,,Comdty,Physical commodity future.,JP,OK,,asia,GJMQVZ,1,2;2;0,,0,7,,XTKT,"",Precious Metal,Metal,Commodity,0,0,2000-01-04,,0
+103,PLA Comdty,PL,PL,XNYM,USD,50,0.1,0.1,5,1,PL,NYM,,Comdty,Physical commodity future.,US,NM,,namr,FJNV,-1,2;2;0,,1,7,NYM3P,XNYM-GBX,COMB,Precious Metal,Metal,Commodity,1,1,2000-01-04,,0
+104,U5A Comdty,U5,MAU,XIMC,INR,1,1,,100,1,GOLD,MCI,,Comdty,Physical commodity future.,IN,I9,,asia,GJMQVZ,1,2;2;0,,0,7,,XIMC,"",Precious Metal,Metal,Commodity,0,0,2004-01-01,,0
+105,JLA Comdty,JL,MSV,XIMC,INR,30,1,,30,1,SILVER,MCI,,Comdty,Physical commodity future.,IN,I9,,asia,HKNUZ,1,2;2;0,,0,7,,XIMC,"",Precious Metal,Metal,Commodity,0,0,2004-01-01,,0
+106,TGCA Comdty,TGC,GOLDF,XBKK,USD,300,0.1,,30,1,GOLD-O,TEF,,Comdty,Physical commodity future.,TH,TS,,asia,HMUZ,1,2;2;0,,0,7,,TFEX,PIT,Precious Metal,Metal,Commodity,0,0,2018-11-05,,0
+107,PAA Comdty,PA,PA,XNYM,USD,100,0.1,0.1,10,1,PA,NYM,,Comdty,Physical commodity future.,US,NM,,namr,HMUZ,-1,2;2;0,,1,7,NYM2P,XNYM-GBX,COMB,Precious Metal,Metal,Commodity,1,1,2000-01-04,,0
+108,MGCA Comdty,MGC,MGC,XCEC,USD,10,0.1,,1,1,MGC,CMX,,Comdty,Physical commodity future.,US,NM,,namr,GJMQZ,1,1;1;0,,0,7,,XCEC-GBX,"",Precious Metal,Metal,Commodity,0,0,2010-10-04,,0
+109,AUAA Comdty,AUA,SHAU,XSGE,CNY,1000,0.05,,50,1,au,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Precious Metal,Metal,Commodity,0,0,2008-01-09,,0
+110,SAIA Comdty,SAI,SAG,XSGE,CNY,15,1,,15,1,ag,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Precious Metal,Metal,Commodity,0,0,2012-05-10,,0
+111,ZMEA Comdty,ZME,CMA,XZCE,CNY,10,1,,10,1,MA,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XZCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2011-10-28,,0
+112,PYLA Comdty,PYL,DCCP,XDCE,CNY,5,1,,5,1,pp,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2014-02-28,,0
+113,FGLA Comdty,FGL,CFG,XZCE,CNY,20,1,,20,1,FG,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XZCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2012-12-03,,0
+114,LGEA Comdty,LGE,DEG,XDCE,CNY,10,1,,10,1,eg,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2018-12-10,,0
+115,POLA Comdty,POL,DLL,XDCE,CNY,5,5,,25,1,l,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2007-07-31,,0
+116,RTA Comdty,RT,SNR,XSGE,CNY,10,5,,50,1,ru,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FHJKMNQUVX,1,2;2;0,,0,7,,XSGE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2002-11-18,,0
+117,KSPA Comdty,KSP,SSP,XSGE,CNY,10,2,,20,1,sp,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2018-11-27,,0
+118,PVCA Comdty,PVC,DPV,XDCE,CNY,5,5,,25,1,v,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2009-05-25,,0
+119,KEEA Comdty,KEE,DCJ,XDCE,CNY,100,0.5,,50,1,j,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,PIT,Coal,Energy,Commodity,0,0,2011-04-15,,0
+120,TRCA Comdty,TRC,CZC,XZCE,CNY,100,0.2,,20,1,ZC,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XZCE,PIT,Coal,Energy,Commodity,0,0,2013-09-26,,0
+121,CKCA Comdty,CKC,DJM,XDCE,CNY,60,0.5,,30,1,jm,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,PIT,Coal,Energy,Commodity,0,0,2013-03-22,,0
+122,MOA Comdty,MO,CFI2,IFEU,EUR,1000,0.01,,10,1,ECF,EDX,,Comdty,Physical commodity future.,GB,IP,,euro,HMUZ,-1,2;2;0,,1,7,,IFEU-ECX,"",Emissions,Energy,Commodity,0,0,2005-04-22,,0
+123,CLA Comdty,CL,CL,XNYM,USD,1000,0.01,0.01,10,1,CL,NYM,,Comdty,Physical commodity future.,US,NM,,namr,FGHJKMNQUVXZ,-1,2;2;0,,1,7,NYM1C,XNYM-GBX,COMB,Crude Oil,Energy,Commodity,1,1,2000-01-04,,0
+124,COA Comdty,CO,LCO,IFEU,USD,1000,0.01,0.01,10,1,BRN,ICE,,Comdty,Physical commodity future.,GB,IP,,euro,FGHJKMNQUVXZ,-1,4;4;0,,1,7,ICFUB,IFEU-IPE,"",Crude Oil,Energy,Commodity,1,1,2000-01-04,,0
+125,ENA Comdty,EN,WTCL,IFEU,USD,1000,0.01,0.01,10,1,WBS,ICE,,Comdty,Physical commodity future.,GB,IP,,euro,FGHJKMNQUVXZ,-1,10;10;0,,1,7,EN1FA,IFEU-IPE,"",Crude Oil,Energy,Commodity,1,1,2006-02-03,,0
+126,BZAA Comdty,BZA,BZZ,XNYM,USD,1000,0.01,0.01,10,1,BZ,NYM,,Comdty,Physical commodity future.,US,NM,,namr,FGHJKMNQUVXZ,-1,3;3;0,,1,7,CBTYE,XNYM-GBX,COMB,Crude Oil,Energy,Commodity,1,1,2007-07-30,,0
+127,U6A Comdty,U6,MCGB,XIMC,INR,100,1,,100,1,CRUDEOIL,MCI,,Comdty,Physical commodity future.,IN,I9,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XIMC,"",Crude Oil,Energy,Commodity,0,0,2005-02-09,,0
+128,B5A Comdty,B5,BRRTS,RTSX,USD,10,0.01,,0.1,1,BR,RTS,,Comdty,Physical commodity future.,RU,R1,,euro,FGHJKMNQUVXZ,1,1;2;0,,0,7,,RTSX,"",Crude Oil,Energy,Commodity,0,0,2009-01-15,,0
+129,DATA Comdty,DAT,DBIP,IFEU,USD,1000,0.001,,1,1,DBI,ICE,,Comdty,Physical commodity future.,GB,IP,,euro,FGHJKMNQUVXZ,1,1;2;0,,0,7,,IFEU-COL,"",Crude Oil,Energy,Commodity,0,0,2019-04-15,,0
+130,OQAA Comdty,OQA,OQ,DUMX,USD,1000,0.01,,10,1,OQD,DME,,Comdty,Physical commodity future.,AE,DX,,euro,FGHJKMNQUVXZ,1,1;2;0,,0,7,,DUMX,"",Crude Oil,Energy,Commodity,0,0,2007-06-01,,0
+131,WDSA Comdty,WDS,MCGBM,XIMC,INR,10,1,,10,1,"",MCI,,Comdty,Physical commodity future.,IN,LS,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XIMC,"",Crude Oil,Energy,Commodity,0,0,2015-01-06,2019-12-18,0
+132,SCPA Comdty,SCP,ISC,XINE,CNY,1000,0.1,,100,1,sc,INE,,Comdty,Physical commodity future.,CN,SH,,asia,FGHJKMNQUVXZ,1,2;2;1,,1,7,,XINE,PIT,Crude Oil,Energy,Commodity,0,1,2018-03-26,,1
+133,NGA Comdty,NG,NG,XNYM,USD,10000,0.001,0.001,10,1,NG,NYM,,Comdty,Physical commodity future.,US,NM,,namr,FGHJKMNQUVXZ,-1,5;5;0,,1,7,NYM1N,XNYM-GBX,COMB,Natural Gas,Energy,Commodity,1,1,2000-01-04,,0
+134,TZTA Comdty,TZT,TFMBM,NDEX,EUR,744,0.005,,3.72,1,TFM,EDX,,Comdty,Physical commodity future.,GB,IP,,euro,FGHJKMNQUVXZ,1,1;1;0,,0,7,,IFEU-COL,"",Natural Gas,Energy,Commodity,0,0,2005-06-29,,0
+135,FNA Comdty,FN,NGLNM,IFEU,GBp,28000,0.01,0.01,310,1,GWM,ICE,,Comdty,Physical commodity future.,GB,XX,,euro,FGHJKMNQUVXZ,-1,1;1;0,,1,7,,IFEU,"",Natural Gas,Energy,Commodity,1,1,2000-01-04,,0
+136,QSA Comdty,QS,LGO,IFEU,USD,100,0.25,0.25,25,1,G,ICE,,Comdty,Physical commodity future.,GB,IP,,euro,FGHJKMNQUVXZ,-1,10;10;0,,1,7,ICFUA,IFEU-IPE,"",Refined Products,Energy,Commodity,1,1,2000-01-04,,0
+137,HOA Comdty,HO,HO,XNYM,USD,42000,0.0001,0.0001,4.2,100,HO,NYM,,Comdty,Physical commodity future.,US,NM,,namr,FGHJKMNQUVXZ,-1,8;8;0,,1,7,NYM1H,XNYM-GBX,COMB,Refined Products,Energy,Commodity,1,1,2000-01-04,,0
+138,PGA Comdty,PG,LRB,IFEU,USD,42000,0.01,,4.2,100,UHU,ICE,,Comdty,Physical commodity future.,GB,IP,,euro,FGHJKMNQUVXZ,-1,20;20;0,,1,7,,IFEU-IPE,"",Crude Oil,Energy,Commodity,0,0,2006-04-21,,0
+139,FOA Comdty,FO,SFU,XSGE,CNY,10,1,,10,1,fu,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Refined Products,Energy,Commodity,0,0,2004-12-01,,0
+140,BITA Comdty,BIT,SBU,XSGE,CNY,10,2,,20,1,bu,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Refined Products,Energy,Commodity,0,0,2013-10-09,,0
+141,C A Comdty,C ,C,XCBT,USc,5000,0.25,0.25,1250,1,ZC,CBT,,Comdty,Physical commodity future.,US,CB,,namr,HKNUZ,-1,10;10;0,,1,7,CBT1C,XCBT-CBA,COMB,Corn,Agriculture,Commodity,1,1,2000-01-03,,0
+142,ACA Comdty,AC,DCC,XDCE,CNY,10,1,,10,1,c,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FHKNUX,1,2;2;0,,0,7,,XDCE,PIT,Corn,Agriculture,Commodity,0,0,2004-09-22,,0
+143,DCSA Comdty,DCS,DCOS,XDCE,CNY,10,1,,10,1,cs,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FHKNUX,1,2;2;0,,0,7,,XDCE,PIT,Corn,Agriculture,Commodity,0,0,2014-12-19,,0
+144,S A Comdty,S ,S,XCBT,USc,5000,0.25,0.25,1250,1,ZS,CBT,,Comdty,Physical commodity future.,US,CB,,namr,FHKNX,-1,10;10;0,,1,7,CBT1S,XCBT-CBA,COMB,Soy,Agriculture,Commodity,1,1,2000-01-03,,0
+145,BOA Comdty,BO,BO,XCBT,USc,60000,0.01,0.01,600,1,ZL,CBT,,Comdty,Physical commodity future.,US,CB,,namr,FHKNZ,-1,10;10;0,,1,7,CBT2S,XCBT-CBA,COMB,Soy,Agriculture,Commodity,1,1,2000-01-03,,0
+146,Q8A Comdty,Q8,NSB,XNCD,INR,10,1,,100,1,SYBEANIDR,NDX,,Comdty,Physical commodity future.,IN,I9,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XNCD,"",Soy,Agriculture,Commodity,0,0,2003-12-15,2022-07-20,0
+147,AEA Comdty,AE,DSM,XDCE,CNY,10,1,,10,1,m,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FKU,1,38;38;0,,1,7,,XDCE,PIT,Soy,Agriculture,Commodity,0,1,2000-07-17,,1
+148,SHA Comdty,SH,DBY,XDCE,CNY,10,2,,20,1,y,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FKU,1,36;36;0,,1,7,,XDCE,PIT,Soy,Agriculture,Commodity,0,1,2006-01-09,,1
+149,AKA Comdty,AK,DSA,XDCE,CNY,10,1,,10,1,a,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FHKNUX,1,35;35;0,,1,7,,XDCE,PIT,Soy,Agriculture,Commodity,0,1,2002-03-15,,1
+150,W A Comdty,W ,W,XCBT,USc,5000,0.25,0.25,1250,1,ZW,CBT,,Comdty,Physical commodity future.,US,CB,,namr,HKNUZ,-1,10;10;0,,1,7,CBT1W,XCBT-CBA,COMB,Wheat,Agriculture,Commodity,1,1,2000-01-03,,0
+151,KWA Comdty,KW,KW,XCBT,USc,5000,0.25,0.25,1250,1,KE,CBT,,Comdty,Physical commodity future.,US,KC,,namr,HKNUZ,-1,10;10;0,,1,7,KCBTW,XCBT-CBA,COMB,Wheat,Agriculture,Commodity,1,1,2000-01-03,,0
+152,CAA Comdty,CA,BL2,XMAT,EUR,50,0.25,0.25,12.5,1,EBM,EOP,,Comdty,Physical commodity future.,FR,PA,,euro,HKUZ,-1,15;15;0,,1,7,WZCTD,XMAT,"",Wheat,Agriculture,Commodity,0,0,2000-01-03,,0
+153,ZRRA Comdty,ZRR,CRSM,XZCE,CNY,10,1,,10,1,RM,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FKU,1,32;32;0,,1,7,,XZCE,PIT,Other Grain,Agriculture,Commodity,0,1,2012-12-28,,1
+154,ZROA Comdty,ZRO,COI,XZCE,CNY,10,1,,10,1,OI,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FKU,1,28;28;0,,1,7,,XZCE,PIT,Other Grain,Agriculture,Commodity,0,1,2007-07-16,,1
+155,SBA Comdty,SB,SB,IFUS,USc,112000,0.01,0.01,1120,1,SB,NYB,,Comdty,Physical commodity future.,US,FN,,namr,HKNV,-1,10;10;0,,1,7,CSC1S,IFUS-ICE,"",Foodstuff,Agriculture,Commodity,1,1,2000-01-03,,0
+156,CCA Comdty,CC,CC,IFUS,USD,10,1,1,10,1,CC,NYB,,Comdty,Physical commodity future.,US,FN,,namr,HKNUZ,-1,10;10;0,,1,7,CSC1C,IFUS-ICE,"",Foodstuff,Agriculture,Commodity,1,1,2000-01-03,,0
+157,CAA Index,CA,FESB,XEUR,EUR,50,0.1,,5,1,FESB,EUX,EUX,Index,Physical index future.,DE,DT,,euro,HMUZ,1,2;0;0,,0,3,,XEUR,"",Equity Index,Equity Index,Equity Index,0,0,2001-03-19,,0
+158,KCA Comdty,KC,KC,IFUS,USc,37500,0.05,0.05,1875,1,KC,NYB,,Comdty,Physical commodity future.,US,FN,,namr,HKNUZ,-1,10;10;0,,1,7,CSC1F,IFUS-ICE,"",Foodstuff,Agriculture,Commodity,1,1,2000-01-03,,0
+159,KOA Comdty,KO,FCPO,XKLS,MYR,25,1,,25,1,FCPO,MDE,,Comdty,Physical commodity future.,MY,KO,,asia,FGHJKMNQUVXZ,-1,30;30;0,,1,7,,XKLS-DER,"",Foodstuff,Agriculture,Commodity,0,1,2000-01-03,,0
+160,QWA Comdty,QW,LSU,IFLX,USD,50,0.1,0.1,5,1,W,ICE,,Comdty,Physical commodity future.,US,CG,,euro,HKQVZ,-1,10;10;0,,1,7,DLIFC,IFLX,"",Foodstuff,Agriculture,Commodity,1,1,2000-01-04,,0
+161,PALA Comdty,PAL,DCP,XDCE,CNY,10,2,,20,1,p,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FKU,1,32;32;0,,1,7,,XDCE,PIT,Foodstuff,Agriculture,Commodity,0,1,2007-10-29,,1
+162,CBA Comdty,CB,CSR,XZCE,CNY,10,1,,10,1,SR,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FHKNUX,1,2;2;0,,0,7,,XZCE,PIT,Foodstuff,Agriculture,Commodity,0,0,2006-01-06,,0
+163,APWA Comdty,APW,CAP,XZCE,CNY,10,1,,10,1,AP,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FHKNVXZ,1,2;2;0,,0,7,,XZCE,"",Foodstuff,Agriculture,Commodity,0,0,2017-12-22,,0
+164,DCEA Comdty,DCE,DJD,XDCE,CNY,5,1,,10,1,jd,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,"",Foodstuff,Agriculture,Commodity,0,0,2013-11-08,,0
+165,JCIA Comdty,JCI,CZCJ,XZCE,CNY,5,5,,25,1,CJ,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FHKNUZ,1,2;2;0,,0,7,,XZCE,"",Foodstuff,Agriculture,Commodity,0,0,2019-04-30,,0
+166,CTA Comdty,CT,CT,IFUS,USc,50000,0.01,0.01,500,1,CT,NYB,,Comdty,Physical commodity future.,US,FN,,namr,HKNZ,-1,15;15;0,,1,7,NYC1C,IFUS-ICE,"",Fibers,Agriculture,Commodity,1,1,2000-01-03,,0
+167,VVA Comdty,VV,CCF,XZCE,CNY,5,5,,25,1,CF,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FHKNUX,1,2;2;0,,0,7,,XZCE,PIT,Fibers,Agriculture,Commodity,0,0,2006-01-13,,0
+168,LCA Comdty,LC,LC,XCME,USc,40000,0.025,0.025,1000,1,LE,CME,,Comdty,Physical commodity future.,US,CE,,namr,GJMQVZ,-1,15;15;0,,1,7,CME1L,XCME-CML,COMB,Livestock,Livestock,Commodity,1,1,2000-01-03,,0
+169,LHA Comdty,LH,LH,XCME,USc,40000,0.025,0.025,1000,1,HE,CME,,Comdty,Physical commodity future.,US,CE,,namr,GJMNQVZ,-1,15;15;0,,1,7,CME3H,XCME-CML,COMB,Livestock,Livestock,Commodity,1,1,2000-01-03,,0
+170,FCA Comdty,FC,FC,XCME,USc,50000,0.025,0.025,1250,1,GF,CME,,Comdty,Physical commodity future.,US,CE,,namr,FHJKQUVX,-1,30;30;0,,1,7,CME1F,XCME-CML,COMB,Livestock,Livestock,Commodity,1,1,2000-01-03,,0
+171,EDA Comdty,ED,ED,XCME,USD,1000000,0.005,,12.5,1,GE,CME,,Comdty,Financial commodity future.,US,CE,,namr,HMUZ,1,2;2;0,,1,6,IMM13,XCME-CME,COMB,Interest Rate,Interest Rate,Interest Rate,0,1,2000-01-03,,0
+172,ERA Comdty,ER,FEI,IFLL,EUR,1000000,0.005,,12.5,1,I,ICF,,Comdty,Financial commodity future.,GB,L9,,euro,HMUZ,1,2;2;0,,1,6,,IFLL,"",Interest Rate,Interest Rate,Interest Rate,0,1,2000-01-04,,0
+173,FFA Comdty,FF,FF,XCBT,USD,5000000,0.005,,20.835,1,ZQ,CBT,,Comdty,Financial commodity future.,US,CB,,namr,FGHJKMNQUVXZ,1,1;2;0,,0,6,,XCBT-CME,COMB,Interest Rate,Interest Rate,Interest Rate,0,0,2000-01-03,,0
+174,L A Comdty,L ,FSS,IFLL,GBP,500000,0.005,,625,1,L,ICF,,Comdty,Financial commodity future.,GB,LI,,euro,HMUZ,1,2;2;0,,1,6,,IFLL,"",Interest Rate,Interest Rate,Interest Rate,0,1,2000-01-04,2021-12-17,0
+175,IRA Comdty,IR,YBA,XSFE,AUD,1000000,0.01,,24.56,1,IR,SFE,,Comdty,Financial commodity future.,AU,SF,,asia,HMUZ,1,2;2;0,,0,6,,XSFE,PIT,Interest Rate,Interest Rate,Interest Rate,0,0,2000-01-04,,0
+176,ODA Comdty,OD,DIJ,BVMF,BRL,100000,0.005,,1.303,1,DI1,BMF,,Comdty,Financial commodity future.,BR,BZ,,lamr,FGHJKMNQUVXZ,1,1;2;0,,0,6,,BVMF,"",Interest Rate,Interest Rate,Interest Rate,0,0,2000-01-03,,0
+177,BAA Comdty,BA,BAX,XMOD,CAD,1000000,0.005,,12.5,1,BAX,MSE,,Comdty,Financial commodity future.,CA,ML,,namr,HMUZ,1,2;2;0,,1,6,,XMOD,"",Interest Rate,Interest Rate,Interest Rate,0,1,2000-01-04,,0
+178,SERA Comdty,SER,S1R,XCME,USD,4167,0.005,,20.835,1,SR1,CME,,Comdty,Financial commodity future.,US,CE,,namr,FGHJKMNQUVXZ,1,1;2;0,,0,6,,XCME-CME,COMB,Interest Rate,Interest Rate,Interest Rate,0,0,2018-05-04,,0
+179,SFIA Comdty,SFI,SON3,IFLL,GBP,1000000,0.0001,,25,1,SO3,ICF,,Comdty,Financial commodity future.,GB,LI,,euro,HMUZ,1,2;2;0,,1,6,,IFLL,"",Interest Rate,Interest Rate,Interest Rate,0,1,2018-06-01,,0
+180,SFRA Comdty,SFR,SRA,XCME,USD,2500,0.005,,12.5,1,SR3,CME,,Comdty,Financial commodity future.,US,CE,,namr,HMUZ,1,2;2;0,,1,6,CFF9I,XCME-CME,COMB,Interest Rate,Interest Rate,Interest Rate,0,1,2018-05-04,,0
+181,ONSA Comdty,ONS,1SNO,XCME,GBP,2500,0.005,,1250,1,SON,CME,,Comdty,Financial commodity future.,US,CE,,namr,HMUZ,1,2;2;0,,0,6,,XCME-CME,"",Interest Rate,Interest Rate,Interest Rate,0,0,2018-09-28,,0
+182,SRLA Comdty,SRL,SOFR,IFLL,USD,4000000,0.0025,,25,1,SF3,ICF,,Comdty,Physical commodity future.,GB,LI,,euro,HMUZ,1,2;2;0,,0,7,,IFLL,"",Interest Rate,Interest Rate,Interest Rate,0,0,2018-10-22,,0
+183,LEBA Comdty,LEB,FEU3,XLOD,EUR,1000000,0.005,,12.5,1,EUI,LSE,,Comdty,Financial commodity future.,GB,LS,,euro,HMUZ,1,2;2;0,,0,6,,XLOD,"",Interest Rate,Interest Rate,Interest Rate,0,0,2016-09-23,2022-01-28,0
+184,ZBA Comdty,ZB,NBB,XSFE,NZD,1000000,0.01,,24.55,1,BB,SFE,,Comdty,Financial commodity future.,NZ,SF,,asia,HMUZ,1,2;2;0,,1,6,,XSFE,PIT,Interest Rate,Interest Rate,Interest Rate,0,0,2000-01-05,,0
+185,MESA Index,MES,MEM,IFUS,USD,50,0.1,,5,1,MME,NYF,,Index,Physical index future.,US,NB,,namr,HMUZ,1,2;0;0,,0,3,,IFUS,"",Equity Index,Equity Index,Equity Index,0,0,2009-09-08,,0
+186,MFSA Index,MFS,MFS,IFUS,USD,50,0.1,,5,1,MFS,NYF,,Index,Physical index future.,US,NB,,namr,HMUZ,1,2;0;0,,0,3,,IFUS,"",Equity Index,Equity Index,Equity Index,0,0,2009-09-08,,0
+187,FFDA Index,FFD,CIC,CCFX,CNY,200,0.2,,40,1,IC,CFF,,Index,Financial index future.,CN,CH,,asia,FGHJKMNQUVXZ,1,1;0;0,,0,3,,CCFX,"",Equity Index,Equity Index,Equity Index,0,0,2015-04-16,,0
+188,FFBA Index,FFB,CIH,CCFX,CNY,300,0.2,,60,1,IH,CFF,,Index,Financial index future.,CN,CH,,asia,FGHJKMNQUVXZ,1,1;0;0,,0,3,,CCFX,"",Equity Index,Equity Index,Equity Index,0,0,2015-04-16,,0
+189,ZTWA Index,ZTW,FMEA,XEUR,USD,100,0.1,,10,1,FMEA,EUX,EUX,Index,Physical index future.,DE,DT,,euro,HMUZ,1,2;0;0,,0,3,,XEUR,"",Equity Index,Equity Index,Equity Index,0,0,2013-07-01,,0
+190,BZ1 Index,BZ,IND,BVMF,BRL,1,5,1,5,1,IND,BMF,BMF,Index,Physical index future.,BR,B3,.BVSP,lamr,GJMQVZ,1,2;0;0,,1,3,,BVMF,"",Equity Index,Equity Index,Equity Index,0,1,2000-01-03,,0
+191,SXOA Index,SXO,FXXP,XEUR,EUR,50,0.1,,5,1,FXXP,EUX,EUX,Index,Physical index future.,DE,DT,,euro,HMUZ,1,2;0;0,,0,3,,XEUR,"",Equity Index,Equity Index,Equity Index,0,0,2010-07-28,,0
+192,UXA Index,UX,VX,XCBF,USD,1000,0.05,,50,1,VX,CBF,,Index,yint vol index future.,US,CW,.VIX,namr,FGHJKMNQUVXZ,1,4;0;0,,1,6,,XCBF,"",Vol Index,Vol Index,Vol Index,1,1,2004-03-26,,0
+193,PMCA Index,PMC,MPJlf,IFLL,USD,10,0.001,,0.01,1,MPJ,ICF,,Index,Physical index future.,GB,IP,,euro,HMUZ,1,2;0;0,,0,3,,IFLL,"",Equity Index,Equity Index,Equity Index,0,0,2010-12-01,,0
+194,RSWA Index,RSW,FMWN,XEUR,EUR,100,0.05,,5,1,FMWN,EUX,EUX,Index,Physical index future.,DE,DT,,euro,HMUZ,1,2;0;0,,0,3,,XEUR,"",Equity Index,Equity Index,Equity Index,0,0,2014-03-03,,0
+195,AFA Index,AF,NBN,XNSE,INR,20,0.05,,1,1,BANKNIFTY,NSE,,Index,Physical index future.,IN,II,,asia,FGHJKMNQUVXZ,1,1;0;0,,0,3,,XNSE,"",Equity Index,Equity Index,Equity Index,0,0,2005-06-13,,0
+196,KMSA Index,KMS,MKS2,XKFE,KRW,50000,0.02,,1000,1,05,KFE,,Index,Physical index future.,KR,K3,,asia,FGHJKMNQUVXZ,1,1;0;0,,0,3,,XKFE,"",Equity Index,Equity Index,Equity Index,0,0,2015-07-20,,0
+197,ZRPA Index,ZRP,FMEU,XEUR,EUR,100,0.05,,5,1,FMEU,EUX,EUX,Index,Physical index future.,DE,GE,,euro,HMUZ,1,2;0;0,,0,3,,XEUR,"",Equity Index,Equity Index,Equity Index,0,0,2013-03-11,,0
+198,MWOA Index,MWO,MCNlf,IFLL,USD,10,1,,10,1,MCN,ICF,,Index,Physical index future.,GB,IP,,euro,HMUZ,1,2;0;0,,0,3,,IFLL,"",Equity Index,Equity Index,Equity Index,0,0,2009-02-16,,0
+199,MMEA Index,MME,MCQlf,IFLL,USD,100,0.001,,0.1,1,MCQ,ICF,,Index,Physical index future.,GB,IP,,euro,HMUZ,1,2;0;0,,0,3,,IFLL,"",Equity Index,Equity Index,Equity Index,0,0,2009-02-24,,0
+200,ZWLA Index,ZWL,FMZA,XEUR,USD,100,0.1,,10,1,FMZA,EUX,EUX,Index,Physical index future.,DE,DT,,euro,HMUZ,1,2;0;0,,0,3,,XEUR,"",Equity Index,Equity Index,Equity Index,0,0,2013-07-01,,0
+201,VHOA Index,VHO,TESX,XEUR,EUR,10,0.5,,5,1,TESX,EUX,EUX,Index,Physical index future.,DE,DT,,euro,HMUZ,1,2;0;0,,0,3,,XEUR,"",Equity Index,Equity Index,Equity Index,0,0,2016-12-02,,0
+202,SCAA Index,SCA,MCRlf,IFLL,USD,100,0.001,,0.1,1,MCR,ICF,,Index,Physical index future.,GB,IP,,euro,HMUZ,1,2;0;0,,0,3,,IFLL,"",Equity Index,Equity Index,Equity Index,0,0,2010-07-14,,0
+203,TWTA Index,TWT,STWN,XSIM,USD,40,0.25,0.25,10,1,TWN,SGX,SIM,Index,Physical index future.,SG,SG,.FTFTCRTWNT,asia,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XTAF,PIT,Equity Index,Equity Index,Equity Index,1,1,2020-07-20,,0
+204,FVSA Index,FVS,FVS,XEUR,EUR,100,0.05,,5,1,FVS,EUX,EUX,Index,yint vol index future.,DE,DT,.V2TX,euro,FGHJKMNQUVXZ,-1,2;0;0,,1,6,,XEUR,"",Vol Index,Vol Index,Vol Index,1,1,2009-06-02,,0
+205,MCY1 Index,MCY,HMCA,XHKF,USD,25,0.2,0.2,5,1,MCY,HKG,HFE,Index,Physical index future.,HK,HO,.MICN0A5C0PCY,namr,FGHJKMNQUVXZ,1,1;0;0,,1,3,,XHKF,PIT,Equity Index,Equity Index,Equity Index,1,1,2021-10-18,,0
+206,NO1 Index,NO,JNM,XOSE,JPY,100,5,1,500,1,NO,OSE,OSA,Index,Physical index future.,JP,OK,.N225,asia,HMUZ,1,2;0;0,,1,3,,XOSE,PIT,Equity Index,Equity Index,Equity Index,0,1,2006-07-18,,0
+207,BTC1 Curncy,BTC,BTC,XCME,USD,5,5,0.05,25,1,BTC,CME,IOM,Index,Currency future.,US,CE,BTC=,namr,FGHJKMNQUVXZ,1,1;0;0,,0,3,,XCME-CME,"",Non-Equity Index,Non-Equity Index,Non-Equity Index,0,0,2017-12-15,,0
+208,BMR1 Curncy,BMR,MBT,XCME,USD,0.1,5,0.05,0.5,1,MBT,CME,IOM,Index,Currency future.,US,CE,MBT=,namr,FGHJKMNQUVXZ,1,1;0;0,,0,3,,XCME-CME,"",Non-Equity Index,Non-Equity Index,Non-Equity Index,0,0,2021-05-03,,0
+209,DCR1 Curncy,DCR,HTE,XCME,USD,50,0.5,0.05,25,1,ETH,CME,IOM,Index,Currency future.,US,CE,ETH=,namr,FGHJKMNQUVXZ,1,1;0;0,,0,3,,XCME-CME,"",Non-Equity Index,Non-Equity Index,Non-Equity Index,0,0,2021-02-08,,0
+210,RF1 Curncy,RF,RF,XCME,CHF,125000,0.0001,0.00005,12.5,1,RF,CME,IMM,Curncy,Currency future.,US,CE,EURCHF=,namr,HMUZ,1,2;0;0,,0,3,,XCME-CME,COMB,Currency,Currency,Currency,0,0,2001-02-01,,0
+211,RP1 Curncy,RP,RP,XCME,GBP,125000,0.00005,0.000025,6.25,1,RP,CME,IMM,Curncy,Currency future.,US,CE,EURGBP=,namr,HMUZ,1,2;0;0,,0,3,,XCME-CME,COMB,Currency,Currency,Currency,0,0,2000-01-03,,0
+212,RY1 Curncy,RY,RY,XCME,JPY,125000,0.01,0.005,1250,1,RY,CME,IMM,Curncy,Currency future.,US,CE,EURJPY=,namr,HMUZ,1,2;0;0,,0,3,,XCME-CME,"",Currency,Currency,Currency,0,0,2000-01-03,,0
+213,BPA Comdty,BP,DSB,XDCE,CNY,10,1,,10,1,b,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,27;27;0,,1,7,,XDCE,PIT,Soy,Agriculture,Commodity,0,0,2005-01-17,,1
+214,IBCA Comdty,IBC,SIBC,XINE,CNY,5,10,,50,1,bc,INE,,Comdty,Physical commodity future.,CN,SH,,asia,FGHJKMNQUVXZ,1,40;40;0,,1,7,,XINE,PIT,Base Metal,Metal,Commodity,0,0,2020-11-19,,1
+215,IREA Comdty,IRE,CESF,XZCE,CNY,5,2,,10,1,SF,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XZCE,"",Industrial Material,Industrial Material,Commodity,0,0,2014-08-08,,0
+216,LHDA Comdty,LHD,DLH,XDCE,CNY,16,5,,80,1,lh,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FHKNUX,1,2;2;0,,0,7,,XDCE,"",Livestock,Livestock,Commodity,0,0,2021-01-08,,0
+217,PGRA Comdty,PGR,DPG,XDCE,CNY,20,1,,20,1,pg,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,PIT,Natural Gas,Energy,Commodity,0,0,2020-03-30,,0
+218,PKRA Comdty,PKR,CZPK,XZCE,CNY,5,2,,10,1,PK,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,37;37;0,,1,7,,XZCE,"",Other Grain,Agriculture,Commodity,0,0,2021-02-01,,1
+219,SLSA Comdty,SLS,ILU,XINE,CNY,10,1,,10,1,lu,INE,,Comdty,Physical commodity future.,CN,SH,,asia,FGHJKMNQUVXZ,1,2;2;1,,1,7,,XINE,PIT,Refined Products,Energy,Commodity,0,0,2020-06-22,,1
+220,SRBA Comdty,SRB,SINR,XINE,CNY,10,5,,50,1,nr,INE,,Comdty,Physical commodity future.,CN,SH,,asia,FGHJKMNQUVXZ,1,49;49;0,,1,7,,XINE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2019-08-12,,1
+221,SYRA Comdty,SYR,DLEB,XDCE,CNY,5,1,,5,1,eb,DCE,,Comdty,Physical commodity future.,CN,D6,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XDCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2019-09-26,,0
+222,URIA Comdty,URI,CUR,XZCE,CNY,20,1,,20,1,UR,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XZCE,"",Industrial Material,Industrial Material,Commodity,0,0,2019-08-09,,0
+223,ZSTA Comdty,ZST,SHSS,XSGE,CNY,5,5,,25,1,ss,SHF,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XSGE,PIT,Base Metal,Metal,Commodity,0,0,2019-09-25,,0
+224,ZSYA Comdty,ZSY,CCSA,XZCE,CNY,20,1,,20,1,SA,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XZCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2019-12-06,,0
+225,ZZPA Comdty,ZZP,CZPF,XZCE,CNY,5,2,,10,1,PF,ZCE,,Comdty,Physical commodity future.,CN,H4,,asia,FGHJKMNQUVXZ,1,1;2;0,,0,7,,XZCE,PIT,Industrial Material,Industrial Material,Commodity,0,0,2020-10-12,,0
+226,SSYA Comdty,SSY,SARO3,IFLL,CHF,1000000,0.005,,0.005,1,SA3,ICF,,Comdty,Physical commodity future.,GB,LI,,euro,HMUZ,1,2;2;0,,1,7,,IFLL,"",Interest Rate,Interest Rate,Interest Rate,0,0,2019-08-01,,0
+227,JGSA Index,JGS,GIF,INSE,USD,2,0.5,0.5,1,1,NIFTY,NGC,,Index,Physical index future.,IN,*N,.NSEI,asia,FGHJKMNQUVXZ,1,2;0;0,,1,3,,INSE,,Equity Index,Equity Index,Equity Index,0,0,2023-01-01,,0
+228,CORA Comdty,CORA,CRA,XMOD,CAD,2500,0.0025,,6.25,1,CRA,MSE,,Comdty,Financial commodity future.,CA,ML,,namr,HMUZ,1,2;2;0,,1,7,,XMOD,"",Interest Rate,Interest Rate,Interest Rate,0,0,2020-06-01,,0
